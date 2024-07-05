@@ -1,4 +1,4 @@
-#!/home/ubuntu/project/django-todo/my_env/bin/python3
+#!/home/ubuntu/project/django-todo2/my_env/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
